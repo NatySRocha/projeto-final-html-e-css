@@ -1,0 +1,82 @@
+/* estilo index*/
+.center {
+  text-align: center;
+  font-size: 26px;
+}
+.p1 {
+  font-size: 20px;
+}
+.p2 {
+  font-size: 23px;
+}
+.p3 {
+  font-size: 25px;
+}
+
+.p4 {
+  font-size: 23px;
+}
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#menu li {
+  display: inline;
+  padding: 22px;
+}
+
+#menu li a {
+  text-decoration: none;
+  color: cadetblue;
+  font-size: 23px;
+}
+
+#menu li a:hover {
+  color: dimgrey;
+}
+
+.p-30 {
+  padding: 30px;
+}
+
+.br-50 {
+  border-radius: 35%;
+}
+
+.wh-300 {
+  width: 300px;
+  height: 300px;
+}
+
+.tm-social {
+  width: 50px;
+  height: 50px;
+  padding: 15px;
+}
+
+html {
+  color: olive;
+}
+p {
+  font-size: 23px;
+  color: aquamarine;
+}
+.color {
+  color: rgb(196, 181, 43);
+}
+
+.h3 {
+  color: darkolivegreen;
+}
+
+.h1 {
+  color: darkseagreen;
+}
+/*estilo contato*/
+
+.ml-50 {
+  margin-left: 50px;
+}
